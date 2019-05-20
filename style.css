@@ -7,12 +7,24 @@ html {
 body {
   min-height: 100%;
   min-width: 100%;
-  background: linear-gradient(pink, violet);
+  background: linear-gradient(lightblue, pink, white, pink, lightblue);
 }
 
 button {
-  font-size: 7px;
+  font-size: 12px;
 }
+
+/* .low {
+  color:green
+}
+
+.medium {
+  colr:
+} */
+
+/* .deleteButton {
+  font-size: 1000px;
+} */
 
 #main-content {
   position: relative;
